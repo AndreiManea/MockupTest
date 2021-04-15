@@ -1,0 +1,11 @@
+<svg width="264" height="1024" viewBox="0 0 264 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="264" height="1024" fill="#00583D"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="264" height="1024">
+<rect width="264" height="1024" fill="#00583D"/>
+</mask>
+<g mask="url(#mask0)">
+<ellipse cx="380" cy="677" rx="396" ry="368" fill="#F0DACD"/>
+<circle cx="-48" cy="956" r="320" fill="#D0722A"/>
+<circle cy="320" r="320" fill="#00583D"/>
+</g>
+</svg>
